@@ -5,7 +5,6 @@
 	<h1>Title : ${title}</h1>
 	<h1>Message : ${message}</h1>
 	
-	
 	<form class="form-style-7">
 		<ul>
 			<li><label for="First Name">Name</label> <input type="text"
